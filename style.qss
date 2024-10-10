@@ -1,0 +1,94 @@
+/*= Style for mainwindow START
+  ==================================================== */
+#MainWindow {
+    background-color: #fff;
+}
+/*= END
+  ==================================================== */
+
+/*= Style for button to change menu style START
+  ==================================================== */
+#change_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+#change_btn:hover {
+    background-color: #e0e0e0; /* Slight color change on hover */
+    /* Scaling animation is handled in Python */
+}
+/*= END
+  ==================================================== */
+
+/*= Style for header widget START
+  ==================================================== */
+#widget {
+    background-color: #f9fafd;
+}
+/*= END
+  ==================================================== */
+
+/*= Style for menu with icon only START
+  ==================================================== */
+/* Style for widget */
+#icon_only_widget {
+    background-color: #b3dfff;
+    width: 50px; /* Use Python to animate width */
+}
+
+/* Style for QPushButton and QLabel */
+#icon_only_widget QPushButton, #icon_only_widget QLabel {
+    height: 50px;
+    border: none;
+}
+
+#icon_only_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5); /* Hover effect */
+}
+
+/* Style for logo image */
+#logo_label_1 {
+    padding: 5px;
+}
+/*= END
+  ==================================================== */
+
+/*= Style for menu with icon and text START
+  ==================================================== */
+/* Style for widget */
+#full_menu_widget {
+    background-color: #b3dfff;
+    /* Use Python to animate width */
+}
+
+/* Style for QPushButton */
+#full_menu_widget QPushButton {
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0 8px 15px;
+    color: #000;
+}
+
+#full_menu_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5); /* Hover effect */
+}
+
+#full_menu_widget QPushButton:checked {
+    color: #fff; /* Change text color when checked */
+}
+
+/* Style for logo image */
+#logo_label_2 {
+    padding: 5px;
+}
+
+/* Style for APP title */
+#logo_label_3 {
+    padding-right: 10px;
+    color: #000;
+}
+/*= END
+  ==================================================== */
