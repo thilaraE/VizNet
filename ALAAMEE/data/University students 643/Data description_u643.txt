@@ -1,0 +1,17 @@
+::: University student data - Details :::
+
+A study of a cohort of first-year university students.
+
+Friendship network (nodes = 643) - undirected network
+
+Individual Outcome variable: dropping out
+
+Other individual variables
+
+- sex (Female) - sexF
+- live off campus - loc
+- international student - internBin
+- number of failed  subjects - fails
+- Financial stress - finstr
+
+
