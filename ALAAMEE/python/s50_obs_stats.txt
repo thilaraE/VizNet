@@ -1,0 +1,2 @@
+Density Sender Receiver Contagion Reciprocity ContagionReciprocity EgoInTwoStar EgoOutTwoStar MixedTwoStar TransitiveTriangleT1 oOc.sport oOc.alcohol MixedTwoStarSource MixedTwoStarSink TransitiveTriangleT3 TransitiveTriangleD1 TransitiveTriangleU1 CyclicTriangleC1 CyclicTriangleC3 AlterInTwoStar2 AlterOutTwoStar2 GWSender.0.6931471805599453 GWReceiver.0.6931471805599453
+17.0 43.0 40.0 25.0 26.0 7.0 57.0 44.0 88.0 27.0 28.0 59.0 93.0 92.0 13.0 34.0 29.0 18.0 3.0 20.0 40.0 4.09375 5.66015625
